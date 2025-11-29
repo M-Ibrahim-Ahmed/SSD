@@ -4,6 +4,7 @@ Allowed topics:
 - System usage guidance for doctors
 - Approved medical references
 - Drug interaction information
+- Medical advice
 
 Forbidden topics:
 - Anything related to Nurses or Patients
